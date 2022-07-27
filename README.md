@@ -23,6 +23,8 @@ In order to go back to the original table they can delete the input values or cl
 It is also important to note that the user inputs a value and presses enter to get filtered results. There is not a button for the user to press.
 
 ## SUMMARY
+
+##### DRAWBACK
 One major drawback is that the filters need to be in the same format as the one on the table. For example, the filter cannot find 'CA' under states given that the values for UFO sightings in California is spelled 'ca'. Spaces at the end, beginning or in the middle of the search will return no results as well.
 
 ##### RECOMMENDATIONS  
